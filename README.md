@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/BanMMTL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/doddapranit/web102_prework/blob/main/assets/prework.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap v1.28 for macOS
